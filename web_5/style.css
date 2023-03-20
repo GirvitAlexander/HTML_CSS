@@ -1,0 +1,82 @@
+p{
+    margin: 0;
+    padding-top: 0;
+}
+
+
+.title{
+    background-color: gray;
+    width: 980px;   
+    height: 29px;
+    float: left;
+}
+.site_name{
+    float: left;
+    width: 230px;
+    background-color: aquamarine;
+    height: 102px;    
+}
+
+.navigation_menu{
+    float: left;
+    background-color: yellow;
+    height: 102px;
+    width: 750px;
+}
+
+.advertise{
+    width: auto;
+    height: 135px;
+    background-color: green;
+    width: 980px;
+    float: left;
+}
+
+.news_events{
+    height: 400px;
+    width: 350px;
+    float: left;
+    background-color: black;
+}
+
+.info{
+    height: 400px;
+    width: 630px;
+    float: left;
+    background-color: brown;
+}
+
+.newsletter{
+    width: 350px;
+    height: 296px;
+    float: left;
+    background-color:thistle;
+}
+
+.why_us{
+    width: 200px;
+    height: 296px;
+    float: left;
+    background-color: aqua;
+}
+
+.follow_us{
+    width: 200px;
+    height: 296px;
+    float: left;
+    background-color:red;
+}
+
+.address{
+    width: 230px;
+    height: 296px;
+    float: left;
+    background-color:teal;
+}
+
+.big_poloska{
+    width: 980px;
+    height: 60px;
+    float: left;
+    background-color: darkslategray  ;
+}
